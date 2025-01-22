@@ -1,0 +1,24 @@
+a{
+    padding: 20px 25px;
+    text-decoration: none;
+    border: 1px solid;
+    border-radius: 30px;
+    margin-left: 20px;
+    background-color: black;
+    color: white;
+}
+
+nav{
+    padding: 50px;
+    background-color: rgb(180, 243, 180);
+}
+
+#div1{
+    margin-left: 60%;
+}
+
+.active{
+    background-color: gray;
+    color: white;
+}
+

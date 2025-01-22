@@ -1,0 +1,15 @@
+.product{
+    width: 500px;
+    box-shadow: 2px 2px 10px gray;
+    margin: 20px auto;
+    background-color: rgb(226, 194, 199);
+}
+
+button{
+    height: 40px;
+    width: 100px;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    margin-left: 10px;
+}
